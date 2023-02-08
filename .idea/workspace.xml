@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca2ee412-7d09-42d0-bd48-7775fdedda19" name="Changes" comment="" />
+    <list default="true" id="ca2ee412-7d09-42d0-bd48-7775fdedda19" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +24,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/forh/Python_projects/GeekBrains/HM"
+    "last_opened_file_path": "/home/forh/1.My_files/Python_projects/GeekBrains/HM/11_1"
   }
 }]]></component>
   <component name="RunManager">
